@@ -1,0 +1,17 @@
+{
+  "name": "stylint-repro-karlos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "stylint styles/",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "stylint": "^1.5.7",
+    "stylint-stylish": "^1.4.0"
+  }
+}

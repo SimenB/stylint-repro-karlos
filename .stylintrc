@@ -1,0 +1,4 @@
+{
+  "reporter": "stylint-stylish",
+  "brackets": "never"
+}
