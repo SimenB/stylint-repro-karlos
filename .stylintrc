@@ -1,4 +1,4 @@
 {
-  "reporter": "stylint-stylish",
-  "brackets": "never"
+  "brackets": "never",
+  "semicolons": "always"
 }

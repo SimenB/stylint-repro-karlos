@@ -4,14 +4,16 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "lint": "stylint styles/",
+    "lint": "stylint dank-styles/ cool-styles",
+    "lint-dank": "stylint dank-styles/",
+    "lint-cool": "stylint cool-styles/",
+    "stylint": "stylint cool-styles/",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "stylint": "^1.5.7",
-    "stylint-stylish": "^1.4.0"
+    "stylint": "^1.5.7"
   }
 }
